@@ -1,1 +1,1 @@
-# Phase5_Project
+This project leverages Yelp restaurant review data to analyze customer sentiment and provide actionable insights to restaurants. The goal is to help restaurants enhance their offerings by focusing on key services such as food quality, service speed, and atmosphere. By identifying trends and patterns in customer feedback, restaurants can make data-driven improvements to align with customer preferences and increase overall satisfaction.
